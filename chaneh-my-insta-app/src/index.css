@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ProfileImageContainer{
+  height: 300px;
+  width: 300px;
+  padding: 12px;
+
+}
+
+.ProfileImage {
+  background-image: url("./assets/image3.png");
+  height: 250px;
+  width: 250px;
+  background-size: cover;
+  border-radius: 50%;
+
+}
+
+.PostItemContainer{
+  padding: 6px;
+  height: 300px;
+  width: 300px;
+  
+}
+
+.PostItem{
+  height: 260px;
+  width: 260px;
+  background-size: cover;
+}
+
